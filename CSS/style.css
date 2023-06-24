@@ -54,10 +54,10 @@
     background: #fff;
 }
 .menu-btn span::before {
-    transform: translatey(-2rem);
+    transform: translatey(-6em);
 }
 .menu-btn span::after {
-    transform: translatey(3rem);
+    transform: translatey(5em);
 }
 
 ul {
