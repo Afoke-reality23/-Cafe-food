@@ -42,7 +42,7 @@
     display: block;
     width: 20px;
     height: 2px;
-    background: #fff;
+    background: #000;
     transform: translatex(-0.6rem);
 }
 .menu-btn span::before,.menu-btn span::after {
@@ -50,7 +50,7 @@
     height: 2px;
     content: "";
     display: block;
-    background: #fff;
+    background: #000;
 }
 .menu-btn span::before {
     transform: translatey(-0.4rem);
