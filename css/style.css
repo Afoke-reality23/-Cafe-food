@@ -92,7 +92,7 @@ li a {
     display: block;
 }*/
 .hero-img {
-    background-image: url('media/bg-hero.jpg');
+    background-image:linear-gradien(rgba(128,128,128,0.6),rgba(128,128,128,0.5),url('../media/bg-hero.jpg');
     margin-top: 3.5em;
     padding-top: 3.5rem;
 }
