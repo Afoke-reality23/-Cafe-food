@@ -176,7 +176,6 @@ button[type="submit"] {
 @media screen and (min-width:980px) {
     .ads {
         flex-direction: row;
-        border: 2px solid green;
     }
 }
 .ad {
@@ -240,7 +239,6 @@ svg {
     .about {
         margin: 8em 5em 0 -6em;
         overflow: hidden;
-        border: 2px solid green;
     }
 }
 .about h3 {
