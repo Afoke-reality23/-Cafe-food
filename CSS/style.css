@@ -29,7 +29,6 @@
     padding-left:;
     background: #555;
     padding: px;
-    width: 20px;
     height: 7px;
     padding: 20 20px;
     margin-right: 1em;
@@ -54,10 +53,10 @@
     background: #fff;
 }
 .menu-btn span::before {
-    transform: translatey(-6em);
+    transform: translatey(-0.4rem);
 }
 .menu-btn span::after {
-    transform: translatey(5em);
+    transform: translatey(0.3rem);
 }
 
 ul {
