@@ -43,7 +43,9 @@ html {
     background: #555;
 }
 @media screen and(min-width:980px){
-    margin-right:500px;
+    .menu-btn{
+        right:350px;
+    }
 }
 
 /* @media screen and (min-width:980px) {
