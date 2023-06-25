@@ -42,13 +42,12 @@ html {
     height: 35px;
     background: #555;
 }
-@media screen and(min-width:980px){
-    .menu-btn{
-        left:-35em;
-        border:5px solid yellow;
+@media screen and (min-width:980px) {
+    .menu-btn {
+        border:2px solid yellow;
+        right: 15em;
     }
 }
-
 /* @media screen and (min-width:980px) {
     .menu-btn {
         transform: translate(-15em, 8px);
