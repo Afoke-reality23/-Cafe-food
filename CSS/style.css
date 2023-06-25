@@ -398,9 +398,9 @@ svg {
 
 @media screen and (min-width:980px) {
     .about p {
-        font-size:9px;
+        font-size:6px;
         transform:scale();
-        margin: 5em 4em;
+        margin: 5em 3em;
     }
 }
 .about h2 {
