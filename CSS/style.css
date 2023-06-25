@@ -345,8 +345,8 @@ svg {
 }*/
 @media screen and (min-width:980px) {
     .img-grid {
-        grid-template-columns:8vw 8vw 6vw 6vw;
-        grid-auto-rows:7vw;
+        grid-template-columns:6vw 6vw 4vw 4vw;
+        grid-auto-rows:6vw;
         margin:;
         gap:20px;
         justify-content: end;
@@ -356,14 +356,14 @@ svg {
     }
     .img2{
         grid-column: 3/5;
-        height: 14vw;
+        height: 10vw;
     }
     .img3{
         grid-area: 3/1/5/3;
     }
     .img4{
         grid-area: 3/3/4/5;
-        height: 14vw;
+        height: 10vw;
         margin-top: -1em;
     }
 }
