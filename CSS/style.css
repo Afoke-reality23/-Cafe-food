@@ -43,7 +43,7 @@ html {
     background: #555;
 }
 @media screen and(min-width:980px){
-    right:750px;
+    margin-right:500px;
 }
 
 /* @media screen and (min-width:980px) {
