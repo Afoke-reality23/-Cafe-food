@@ -44,7 +44,7 @@ html {
 }
 @media screen and(min-width:980px){
     .menu-btn{
-        right:350px;
+        left:-15em;
     }
 }
 
