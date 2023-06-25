@@ -399,7 +399,7 @@ svg {
 @media screen and (min-width:980px) {
     .about p {
         font-size:8px;
-        transform:scale();
+        transform:scale(1);
         margin: 5em 0em;
     }
 }
@@ -418,7 +418,7 @@ svg {
 @media screen  and (min-width:980px) {
     .sub-sec1 {
         display: grid;
-        grid-template-columns:40vw 30vw;
+        grid-template-columns:50vw 30vw;
         justify-content:;
     }
 }
