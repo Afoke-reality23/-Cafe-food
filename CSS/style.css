@@ -382,7 +382,7 @@ svg {
 }
 @media screen and (min-width:980px) {
     .about h3 {
-        font-size: rem;
+        font-size: 0.8rem;
         margin-top: 2em;
     }
 }
@@ -412,13 +412,13 @@ svg {
 }
 @media screen and (min-width:980px) {
     .about h2 {
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 }
 @media screen  and (min-width:980px) {
     .sub-sec1 {
         display: grid;
-        grid-template-columns:50vw 50vw;
+        grid-template-columns:40vw 60vw;
         justify-content:;
     }
 }
