@@ -400,7 +400,7 @@ svg {
     .about p {
         font-size:9px;
         transform:scale();
-        margin: 5em 2em;
+        margin: 5em 0em;
     }
 }
 .about h2 {
@@ -418,7 +418,7 @@ svg {
 @media screen  and (min-width:980px) {
     .sub-sec1 {
         display: grid;
-        grid-template-columns:40vw 60vw;
+        grid-template-columns:40vw 50vw;
         justify-content:;
     }
 }
