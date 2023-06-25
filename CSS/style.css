@@ -400,7 +400,7 @@ svg {
     .about p {
         font-size:8px;
         transform:scale();
-        margin: 5em 9em;
+        margin: 5em 0em;
     }
 }
 .about h2 {
