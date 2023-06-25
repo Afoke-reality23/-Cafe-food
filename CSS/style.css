@@ -373,7 +373,7 @@ svg {
 }
 @media screen and (min-width:980px) {
     .about {
-        margin:7em 2em 0em;
+        margin:7em 2em -2em;
     }
 }
 .about h3 {
